@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>top.howie</groupId>
+  <artifactId>microservice-simple-provider-user</artifactId>
+  <versioning>
+    <versions>
+      <version>0.0.1-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20200529074258</lastUpdated>
+  </versioning>
+</metadata>
